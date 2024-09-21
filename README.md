@@ -1,2 +1,2 @@
 # Mygit
-it contains source code
+it contains git,linux commands
